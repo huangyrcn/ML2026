@@ -19,11 +19,11 @@
 
 ## 2. Feature Selection
 
-- [ ] 2.1 Experiment Environment Configuration (pip)
-- [ ] 2.2 Dataset Introduction (iris)
-- [ ] 2.3 SFFS etc. (2D Scatter chart)
-- [ ] 2.4 Anova Introduction (2D Scatter chart & Boxplot)
-- [ ] 2.5 Classification Result Comparison (acc, Training cost, prediction cost of different feature selection and all features)
+- [x] 2.1 Experiment Environment Configuration (pip)
+- [x] 2.2 Dataset Introduction (iris)
+- [x] 2.3 SFFS etc. (2D Scatter chart)
+- [x] 2.4 Anova Introduction (2D Scatter chart & Boxplot)
+- [x] 2.5 Classification Result Comparison (acc, Training cost, prediction cost of different feature selection and all features)
 
 ## 3. Feature Extraction
 

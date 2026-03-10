@@ -27,8 +27,8 @@
 
 ## 3. Feature Extraction
 
-- [ ] 3.1 Experiment Environment Configuration (pip)
-- [ ] 3.2 Dataset Introduction (iris)
-- [ ] 3.3 LDA Introduction (Linear Discriminant Analysis, 2D Scatter chart)
-- [ ] 3.4 PCA Introduction (2D Scatter chart)
-- [ ] 3.5 Classification Result Comparison (acc, Training cost, prediction cost of different feature extraction and all features)
+- [x] 3.1 Experiment Environment Configuration (pip)
+- [x] 3.2 Dataset Introduction (iris)
+- [x] 3.3 LDA Introduction (Linear Discriminant Analysis, 2D Scatter chart)
+- [x] 3.4 PCA Introduction (2D Scatter chart)
+- [x] 3.5 Classification Result Comparison (acc, Training cost, prediction cost of different feature extraction and all features)

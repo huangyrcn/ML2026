@@ -9,3 +9,4 @@ __pycache__/
 .scrapy/
 !pyproject.toml
 ciomp/
+CLAUDE.mdsaved_models/
